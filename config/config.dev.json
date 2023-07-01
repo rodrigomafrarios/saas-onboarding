@@ -1,0 +1,7 @@
+{
+	"stage": "dev",
+	"emailSender": "no-reply@your_domain",
+	"configSetName": "saas-config-set",
+	"onboardingDomain": "your_domain",
+	"jwtSecret": "MY_SUPERSCRET"
+}

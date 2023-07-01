@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  background-image: url("../public/favicon.ico");
+  background-repeat: no-repeat;
+  background-position: center 3.5%; 
+}
